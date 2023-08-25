@@ -1,0 +1,77 @@
+
+.card {
+
+        width: 320px;
+        border: .5px solid black;
+        border-radius: 12px;
+        font-family: Helvetica, arial, sans-serif;
+        background-color: rgb(79, 119, 48);
+        box-shadow: 13px 10px 17px rgb(122, 121, 121);
+        margin: 10px;
+        padding: 10px;
+
+}
+
+.card-title {
+       
+        padding: 10px;
+        margin:0;  
+        color: white;
+          
+}
+
+
+img {   
+
+        width:300px;
+        height:250px;
+        border-radius: 40% 10%;
+        overflow: hidden;
+        border: 3px solid lightgray;
+        margin: 7px;
+        padding: 0;
+        
+}
+
+
+
+.card-info {
+
+        border: 2px solid black;
+        margin: 8px;
+        padding: 10px;   
+        border-radius: 40px 10px;
+        background-color: rgb(255, 252, 186);
+
+
+}        
+
+.headline {
+
+        font-style: italic;
+        font-size:80%;
+        padding: 0;
+        
+}
+
+span {font-weight: bold;}
+
+ul {
+
+        margin:0;
+        padding: 0;
+        list-style: none;
+        align-items: left;
+
+}
+
+.list {
+        font-size: 90%;
+
+}
+
+.paragraph {
+
+        font-size: 80%;
+
+}
